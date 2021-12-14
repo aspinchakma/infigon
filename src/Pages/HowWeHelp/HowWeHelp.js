@@ -20,7 +20,7 @@ const HowWeHelp = () => {
                             data-aos-delay="100"
                             data-aos-duration="1000"
                             className="col-lg-6 banner_content_container">
-                            <h2 className='mb-5'>How we can Help</h2>
+                            <h2 className='mb-3'>How we can Help</h2>
                             <p>Condimentum vel vestibulum, facilisi enuismod id ornare fermentum ac. Bibendum turpis faucibus faucibus lectus cursus elementum. Suscipit sed lectus</p>
                             <div className='banner_details mt-4'>
                                 <h5>STEP 1 <span>SELF ANALYSIS</span></h5>
