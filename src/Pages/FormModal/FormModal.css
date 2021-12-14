@@ -1,0 +1,19 @@
+.submit_form input{
+    width: 100%;
+    padding: .4rem .8rem;
+    outline: none;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    border: 1px solid #2F3777;
+}
+.submit_button{
+    background-color: #2F3777;
+    border: 1px solid #2F3777;
+    color: white;
+}
+.submit_button:hover{
+    background-color: white;
+    color: #2F3777;
+    transition: all .3s ease-out;
+}

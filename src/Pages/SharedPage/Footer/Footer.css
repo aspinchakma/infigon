@@ -1,0 +1,19 @@
+.main_footer_container{
+    background-color: #030A1C;
+    color: white;
+}
+.footer_mini_container{
+text-align: center;
+color: white;
+border-top:1px solid  #151B2C;
+
+}
+.footer_common_container{
+    font-size: 1.1rem;
+    cursor: pointer;
+    color: #aab2bd;
+}
+.footer_common_container p:hover{
+    color: white;
+    transition: all .2s ease-in;
+}

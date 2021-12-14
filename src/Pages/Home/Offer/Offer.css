@@ -1,0 +1,28 @@
+.offer_left_container{
+  background-color: #2abfd4;
+  text-align: right;
+  color: white;
+  padding: 1.7rem 1rem;
+  cursor: pointer;
+}
+.offer_left_container h2, .offer_right_container h2{
+    font-size: 35px;
+    font-weight: 800;
+
+}
+.offer_left_container h3, .offer_right_container h3{
+    font-size: 35px;
+    font-weight: 300;
+}
+.offer_right_container{
+background-color: #f8d24b;
+text-align: right;
+color: white;
+padding: 1.7rem 1rem;
+cursor: pointer;
+}
+.white_line{
+    height: 1px;
+    background-color: white;
+    width: 100%;
+}

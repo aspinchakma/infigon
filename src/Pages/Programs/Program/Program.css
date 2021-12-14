@@ -1,0 +1,16 @@
+
+
+.single_card{
+    cursor: pointer;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: 2px solid white;
+    padding: 1rem .5rem;
+    
+}
+.single_card:hover{
+    border:2px solid #2B59BB ;
+}
+
+.single_card_details img{
+    height: 250px;
+}

@@ -1,0 +1,21 @@
+.how_main_container{
+    background-color: #2F3778;
+    color: white;
+}
+.how_mini_container_border{
+    border-left: 2px solid #3f9e9b;
+    padding: 4.2rem 1rem;
+}
+.banner_details{
+    font-weight: 700;
+    letter-spacing: .2rem;
+    color: #48CDC9;
+    
+}
+.banner_details span{
+    font-size: 2.2rem;
+    letter-spacing: normal;
+}
+.banner_content_container{
+    padding: 2rem 3rem;
+}

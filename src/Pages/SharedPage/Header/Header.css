@@ -1,0 +1,25 @@
+.header_container{
+    background-color: #ECECEC;
+}
+.link_container a{
+    color: #2F3777;
+    font-weight: 600;
+    margin-right: 1.8rem;
+    font-size: 1.1rem;
+    padding: .3rem 1.5rem;
+    text-decoration: none;
+}
+.getInTouchButton{
+    color: white;
+    background-color: #2F3777;
+    padding: .3rem 1.5rem;
+    border-radius: 20px;
+    font-weight: 500;
+    font-size: 1rem;
+    border: 1px solid #2F3777;
+}
+.getInTouchButton:hover{
+    background-color: transparent;
+    color: #2F3777;
+    transition: all .3s ease-in-out;
+}
